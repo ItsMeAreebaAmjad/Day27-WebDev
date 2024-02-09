@@ -1,0 +1,17 @@
+#one{
+    font-size: 10em;
+    text-align: center;
+    margin-left: 700px;
+}
+
+#buttons{
+    margin-left: 600px;
+}
+
+.btns{
+    background-color: rgb(94, 232, 235);
+    color:black;
+    width:100px;
+    height:25px;
+    cursor: pointer;
+}
